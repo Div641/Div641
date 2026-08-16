@@ -1,5 +1,5 @@
 # 💫 About Me:
-Btech- CSE(AIML) '27 | DSA | JAVA | Full Stack(MERN) Developer 
+Btech- CSE(AIML) '27 | DSA | JAVA | Full Stack(MERN) Developer | Gen AI | RAG
 
 
 ## 🌐 Socials:
